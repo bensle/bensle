@@ -10,6 +10,7 @@ Scharf oder süß? Auf jeden Fall scharf!
     - adding new files
     - "pull-requests"
     - merging
+    - managing my profile README
 
 - **Tuesday**
     - tbc

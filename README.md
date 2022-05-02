@@ -3,7 +3,7 @@
 
 Scharf oder süß? Auf jeden Fall scharf!
 
-What are your Web devs topics of the week?
+## What are your Web devs topics of the week?
 - **Monday**
   - git & github
     - creating new repositorys

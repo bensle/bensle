@@ -21,4 +21,7 @@ Scharf oder süß? Auf jeden Fall scharf!
     - vscode & first steps
     - html & first steps
 
+- **Wednesday**
+    - tbc
+
 

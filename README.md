@@ -16,6 +16,9 @@ Scharf oder süß? Auf jeden Fall scharf!
     - managing my profile README
 
 - **Tuesday**
-    - tbc
+    - iTerm / terminal / commands
+    - shell & commands
+    - vscode & first steps
+    - html & first steps
 
 
